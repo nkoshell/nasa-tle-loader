@@ -1,0 +1,5 @@
+include LICENSE
+include README.rst
+global-exclude *.pyc
+graft nasa_tle_loader
+graft examples
